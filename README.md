@@ -23,13 +23,6 @@ Posts are stored using **LocalStorage**, so your feed stays even after refreshin
 
 ---
 
-## 📌 How to Run
-1. Download or clone the repository  
-2. Open `index.html` in your browser  
-   *(Recommended: Use VS Code Live Server)*
-
----
-
 ## 📷 Preview
 A simple student-friendly social media UI inspired design with feed, chat & request sections.
 
